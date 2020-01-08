@@ -1,0 +1,40 @@
+This will be where the information for the scraper project goes. 
+Question: Is there a time of day where higher upvoted posts occur than normal? what about number of comments?
+Modified question: for scores suitably upvoted (5000+) or commented on (300+), 
+is there a time of day where more occur? 
+
+OTHER THINGS TO TEST:
+does a test that determines if row indexes with more than 100 comments are significantly higher than row indexes with less than 100.
+this will give an idea as to whether having 100+ comments is significantly related to having more than 2000 upvotes?
+
+Is there a significant difference in the amount of upvotes a post gets between a post made at the best time of day and worst time of days? comments?
+
+
+
+Goals:
+1. determine hour long period of day where highest posts are made, if any
+
+2. compare hour long counts for significant differences
+
+3. determine which time of day would be best for advertisers based on this information
+
+Why do you care? 
+
+Reddit is one of the largest anonymous social media websites in the world, and that is not changing anytime soon. for the foreseeable future, advertising, be it explicit or hidden, on Reddit is a theoretical goldmine. Therefore, determining with accuracy the best times of day for making these advertisements is key. 
+
+
+Next Steps:
+
+For my next capstone, i hope to incorporate NLP to this project in order to make a predictive model of the content of highly upvoted posts, as sorted by time of day. This would allow for even more affective targeting of advertisements. For example, if video game new is most highly upvoted at 6 pm, then it would be wise for a service advertising games to target that window. 
+
+Plan for Jan 8, 2019
+1.) Hello, my name is James, and I am a data scientist
+2.) Yesterday, I had 0 uploads to github
+3.) My goals for yesterday were to finish data cleaning, work on my eda, and then begin plotting and testing hypotheses questions. 
+4.) I got that done, for sure. 
+5.) My plan for today is almost to complete a first draft of my presentation, and clean up the work I've done so far. I need to reorganize everything, work on uploading it to git in its complete form, and then write up pretty comments and a nice readme file. 
+
+GOALS FOR JAN 9 (WEDNESDAY):
+1. Determine if the tests i did yesterday are meaningful. significance isn't everything, its important to contextualize findings
+2. MORE GRAPHS. SLAM them with graphs
+3. MORE TESTS. Figure out if your tests are meaningful, and then do more. 
