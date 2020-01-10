@@ -19,7 +19,7 @@ I scraped 69395 posts using my scraper. This was from reddit/r/all, so the posts
 
 The average comment value was 27.23 and the average score was 699.77. Later on, i would use these values to determine which posts would be considered having been seen enough to merit further analyses. 
 
-![Graph of number of average posts made per hour over the period of scraping](corrected_hist_dayshours.png)
+![Graph of number of average posts made per hour over the period of scraping](https://github.com/Jameshskelton/Simple-Reddit-Scraper/blob/master/Images/corrected_hist_dayshours.png?raw=true)
 
 The data was binned into the number of hours scraped, from there we can see that there is distinct peaks and troughs that form around midnight each day and 13:00 each day, respectively
 
